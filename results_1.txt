@@ -1,0 +1,15 @@
+The chosen word is banish.
+
+The character f was not found! The error count is 1.
+The character s was found!
+The character b was found!
+The character e was not found! The error count is 2.
+The character w was not found! The error count is 3.
+The character t was not found! The error count is 4.
+The character n was found!
+The character v was not found! The error count is 5.
+The character z was not found! The error count is 6.
+The character x was not found! The error count is 7.
+The character r was not found! The error count is 8.
+
+The user failed to find the word.
